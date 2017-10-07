@@ -13,6 +13,8 @@ namespace PlayTestConsole
 
             var a = 10;
             var g = 15;
+
+            var p = 1;
         }
     }
 }
